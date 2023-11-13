@@ -2,9 +2,10 @@
 - laravel fortify Yönetim Paneli Giriş / Kayıt
 - Yönetim Panelinden tüm yönetilebilir site içeriği
 
-
-<img src="https://i.hizliresim.com/9y46jzb.png" width="46%">
-
+(Arayüz)
+<img src="https://i.hizliresim.com/9y46jzb.png" width="60%">
+(Yönetim Paneli)
+<img src="https://i.hizliresim.com/3i7ozwd.png" width="60%">
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
