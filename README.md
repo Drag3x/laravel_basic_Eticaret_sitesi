@@ -3,7 +3,7 @@
 - Yönetim Panelinden tüm yönetilebilir site içeriği
 
 
-<img src="https://i.hizliresim.com/414g73q.png" width="46%">
+<img src="https://i.hizliresim.com/9y46jzb.png" width="46%">
 
 
 <p align="center">
