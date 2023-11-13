@@ -2,9 +2,9 @@
 - laravel fortify Yönetim Paneli Giriş / Kayıt
 - Yönetim Panelinden tüm yönetilebilir site içeriği
 
-(Arayüz)
-<img src="https://i.hizliresim.com/9y46jzb.png" width="60%">
-(Yönetim Paneli)
+(Arayüz)<br>
+<img src="https://i.hizliresim.com/9y46jzb.png" width="60%"><br>
+(Yönetim Paneli)<br>
 <img src="https://i.hizliresim.com/3i7ozwd.png" width="60%">
 
 <p align="center">
